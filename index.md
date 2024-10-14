@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Welcome
+
+OurObit.org is a private obituaries website.

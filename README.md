@@ -1,9 +1,7 @@
-# Mae Browne Obit on OurObit
+# Welcome
 
-This is a minimal [Jekyll](https://jekyllrb.com/) site bootstrapped with the `jekyll new` command.
+OurObit.org is a privately run public site to host obituaries.
 
-The sample app is deployed on Render at https://ourobit.org.
+This is built on the minimal [Jekyll](https://jekyllrb.com/) site bootstrapped with the `jekyll new` command.
 
-## Deployment
-
-Follow the guide at https://render.com/docs/deploy-jekyll.
+The site is deployed on [Render](https://ourobit.org).
