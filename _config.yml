@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to OurObit.org!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mae Brown Obit on Render
-email: support@render.com
+title: Mae Brown Obit on OurObit.org
+email: support@ourobit.org
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for Mae Browne Obit here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jekyll.onrender.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: render
+url: "https://maebrowne.ourobit.org" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: ourobit
 github_username:  render-examples
 permalink: /:categories/:year/:month/:day/:title
 

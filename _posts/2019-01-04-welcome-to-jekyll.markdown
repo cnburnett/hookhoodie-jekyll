@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Mae Brown Obit post1!"
 date:   2019-01-04 11:08:03 -0800
 categories: jekyll update
 ---
