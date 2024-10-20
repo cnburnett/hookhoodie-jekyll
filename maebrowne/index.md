@@ -14,6 +14,17 @@ PNG
 <p align="center" width="100%">
     <img width="250px" src="assets/mae-browne-laughing.png">
 </p>
+
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 50%;"
+    src="maebrowne\assets\mae-browne-laughing.png" 
+    alt="Our logo">
+</img>
+
+
 <p align="center" width="100%">    
     18 January, 1931 – 14 August, 2024
 </p>
