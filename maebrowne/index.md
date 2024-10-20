@@ -7,10 +7,14 @@ layout: home
 
 # Mae Browne
 
-18 January, 1931 – 14 August, 2024
 
 
-![Mae Pic](./assets/mae-browne-laughing.jpg){:style="width:50px;display:block; margin-left:auto; margin-right:auto"}
+<p align="center" width="100%">
+    <img width="300px%" src="./assets/mae-browne-laughing.jpg">
+</p>
+<p align="center" width="100%">    
+    18 January, 1931 – 14 August, 2024
+</p>
 
 On August 14, 2024, we said goodbye to our Mummles, the Marvelous Mae Browne, at 93 years young. Mae was born on January 18, 1931 in Grangetown, England. She is dearly missed by children Anthea (Zack), Murray (Memet), Colleen, Trevor (Amelie) and Lori, and grandchildren Cendrine, Lalique, Liam, Justine, Noah, Piper, Seanrei, Hamish, Fenna and Lee-Ann. Mae spent her last few years at the Priory Hospital, and the family is infinitely grateful for the loving care she received there.
 
