@@ -6,9 +6,13 @@ layout: home
 ---
 
 # Mae Browne
-
+JPG
 <p align="center" width="100%">
     <img width="250px" src="assets/mae-browne-laughing.jpg">
+</p>
+PNG
+<p align="center" width="100%">
+    <img width="250px" src="assets/mae-browne-laughing.png">
 </p>
 <p align="center" width="100%">    
     18 January, 1931 – 14 August, 2024
