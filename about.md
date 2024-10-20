@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-OurObit.org is a privately run obituaries site.
+OurObit.org is a private obituaries website.
