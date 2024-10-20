@@ -23,6 +23,11 @@ Water elemental:
 </img>
 
 
-<div style="text-align: center;">
-![alt text](https://markdown.land/wp-content/uploads/2021/06/markdown-512px.png "Our logo")
-</div>
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 50%;"
+    src="maebrowne\assets\mae-browne-laughing.png" 
+    alt="Our logo">
+</img>
