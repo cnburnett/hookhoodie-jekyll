@@ -8,21 +8,23 @@ layout: home
 # Mae Browne
 JPG
 <p align="center" width="100%">
-    <img width="250px" src="assets/mae-browne-laughing.jpg">
+    <img width="250px" src="maebrowne\assets\mae-browne-laughing.jpg">
 </p>
 PNG
 <p align="center" width="100%">
-    <img width="250px" src="assets/mae-browne-laughing.png">
+    <img width="250px" src="maebrowne\assets\mae-browne-laughing.png">
 </p>
 
 <img 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 50%;"
+           width: 250%;"
     src="maebrowne\assets\mae-browne-laughing.png" 
     alt="Our logo">
 </img>
+
+![Mae Pic](maebrowne\assets\mae-browne-laughing.png)
 
 
 <p align="center" width="100%">    
