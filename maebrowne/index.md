@@ -6,26 +6,14 @@ layout: home
 ---
 
 # Mae Browne
-JPG
+
 <p align="center" width="100%">
-    <img width="250px" src="maebrowne\assets\mae-browne-laughing.jpg">
-</p>
-PNG
-<p align="center" width="100%">
-    <img width="250px" src="maebrowne\assets\mae-browne-laughing.png">
+    <img width="250px" alt="Mae Pic" src="maebrowne\assets\mae-browne-laughing.jpg">
 </p>
 
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 250%;"
-    src="maebrowne\assets\mae-browne-laughing.png" 
-    alt="Our logo">
-</img>
-
-![Mae Pic](maebrowne\assets\mae-browne-laughing.png)
-
+<p align="center" width="100%">
+    <img width="250px" alt="Mae Pic" src="\maebrowne\assets\mae-browne-laughing.jpg">
+</p>
 
 <p align="center" width="100%">    
     18 January, 1931 – 14 August, 2024
