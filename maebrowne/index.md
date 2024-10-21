@@ -11,6 +11,15 @@ layout: home
     <img width="250px" alt="Mae Pic 1" src="\maebrowne\assets\mae-browne-laughing.jpg">
 </p>
 
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 50%;"
+    src="\maebrowne\assets\mae-browne-laughing.jpg" 
+    alt="Mae Pic 2">
+</img>
+
 <p align="center" width="100%">    
     18 January, 1931 – 14 August, 2024
 </p>
