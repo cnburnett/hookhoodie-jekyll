@@ -7,10 +7,6 @@ layout: home
 
 # Mae Browne
 
-<p align="center" width="100%">
-    <img width="250px" alt="Mae Pic 1" src="\maebrowne\assets\mae-browne-laughing.jpg">
-</p>
-
 <img 
     style="display: block; 
            margin-left: auto;
