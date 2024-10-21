@@ -8,11 +8,7 @@ layout: home
 # Mae Browne
 
 <p align="center" width="100%">
-    <img width="250px" alt="Mae Pic 1" src="maebrowne\assets\mae-browne-laughing.jpg">
-</p>
-
-<p align="center" width="100%">
-    <img width="250px" alt="Mae Pic 2" src="\maebrowne\assets\mae-browne-laughing.jpg">
+    <img width="250px" alt="Mae Pic 1" src="\maebrowne\assets\mae-browne-laughing.jpg">
 </p>
 
 <p align="center" width="100%">    
