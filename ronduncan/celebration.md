@@ -1,3 +1,8 @@
+---
+layout: page
+title: Celebration
+---
+
 [Home](./index.md) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration of Life](./celebration.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Obituary](./obituary.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Tributes](./tributes.md)
 # Celebration of Life
 
