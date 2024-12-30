@@ -3,10 +3,9 @@ layout: page
 title: Photos
 ---
 
-[Home](./index.md) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration of Life](./celebration.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Obituary](./obituary.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Tributes](./tributes.md)
-# Photos
+[Home](./index) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration of Life](./celebration)  &nbsp;&nbsp;&nbsp;&nbsp;[Obituary](./obituary)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos)  &nbsp;&nbsp;&nbsp;&nbsp;[Tributes](./tributes)
 
-_Please send your photos to anneduncan123@yahoo.ca and burnett@pm.me_<br><br>
+_Please submit photos to info@ourobit.org_<br><br>
 
 ## Recent Family Portraits
 

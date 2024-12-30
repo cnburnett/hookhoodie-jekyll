@@ -3,7 +3,7 @@ layout: page
 title: Ron Duncan
 ---
 
-# Ron Duncan
+[Home](./index) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration of Life](./celebration)  &nbsp;&nbsp;&nbsp;&nbsp;[Obituary](./obituary)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos)  &nbsp;&nbsp;&nbsp;&nbsp;[Tributes](./tributes)
 
 <img 
     style="display: block; 
@@ -17,12 +17,9 @@ title: Ron Duncan
     September 19, 1943 – October 20, 2023
 </p>
 
-
-[Home](./index) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration of Life](./celebration)  &nbsp;&nbsp;&nbsp;&nbsp;[Obituary](./obituary)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos)  &nbsp;&nbsp;&nbsp;&nbsp;[Tributes](./tributes)
-
 These pages are a celebration of the life of Ron Duncan; husband, father, grand-father, uncle, friend, bon vivant, fiddler, fisherman, Tai chi instructor, and entrepreneur.
 
-### A Celebration of Ron's life was held at Spinnakers Gastro Brewpub on Thursday October 26th at 2 PM. Friends and family raised a glass in his honour, told some stories and played some fiddle tunes in his honour - see [Celebration](./celebration). 
+A Celebration of Ron's life was held at Spinnakers Gastro Brewpub on Thursday October 26th at 2 PM. Friends and family raised a glass in his honour, told some stories and played some fiddle tunes in his honour - see [Celebration](./celebration). 
 
 # About Ron
 
@@ -38,8 +35,6 @@ Ron appreciated traveling, exploring new cultures and being in nature. Many year
 
 Much loved by his life partner, his two children, five grandchildren and wide circle of family and friends. He passed peacefully surrounded by family.
 
-His adventurous spirit lives on.
-
-# Discover more about Ron
+His adventurous spirit lives on in his children, grand-children and friends.
 
 [Home](./index) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration of Life](./celebration)  &nbsp;&nbsp;&nbsp;&nbsp;[Obituary](./obituary)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos)  &nbsp;&nbsp;&nbsp;&nbsp;[Tributes](./tributes)
