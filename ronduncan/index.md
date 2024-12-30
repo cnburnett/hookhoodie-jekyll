@@ -18,7 +18,7 @@ title: Ron Duncan
 </p>
 
 
-[Home](./ronduncan/index) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration of Life](./ronduncan/celebration)  &nbsp;&nbsp;&nbsp;&nbsp;[Obituary](./ronduncan/obituary)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./ronduncan/photos)  &nbsp;&nbsp;&nbsp;&nbsp;[Tributes](./ronduncan/tributes)
+[Home](./index) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration of Life](./celebration)  &nbsp;&nbsp;&nbsp;&nbsp;[Obituary](./obituary)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos)  &nbsp;&nbsp;&nbsp;&nbsp;[Tributes](./tributes)
 
 These pages are a celebration of the life of Ron Duncan; husband, father, grand-father, uncle, friend, bon vivant, fiddler, fisherman, Tai chi instructor, and entrepreneur.
 
