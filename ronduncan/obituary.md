@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Obituary
+nav: false
 ---
 
 [Home](./index) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration of Life](./celebration)  &nbsp;&nbsp;&nbsp;&nbsp;[Obituary](./obituary)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos)  &nbsp;&nbsp;&nbsp;&nbsp;[Tributes](./tributes)
