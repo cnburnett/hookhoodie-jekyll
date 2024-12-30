@@ -12,8 +12,8 @@ layout: home
            margin-left: auto;
            margin-right: auto;
            width: 50%;"
-    src="\maebrowne\assets\mae-browne-laughing.jpg" 
-    alt="Mae Pic 2">
+    src="\ronduncan\assets\ronduncan036.png" 
+    alt="Ron drinking wine while camping">
 
 <p align="center" width="100%">    
     18 January, 1931 – 14 August, 2024
