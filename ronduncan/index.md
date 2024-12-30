@@ -17,6 +17,12 @@ title: Ron Duncan
     September 19, 1943 – October 20, 2023
 </p>
 
+
+<br><img src="./assets/ron_celebration_of_life_card_side1.png" alt=""/><br><br> 
+<img src="./assets/ron_celebration_of_life_card_side2.png" alt=""/>
+<br>
+
+
 [Home](./index.md) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration of Life](./celebration.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Obituary](./obituary.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Tributes](./tributes.md)
 
 These pages are a celebration of the life of Ron Duncan; husband, father, grand-father, uncle, friend, bon vivant, fiddler, fisherman, Tai chi instructor, and entrepreneur.
