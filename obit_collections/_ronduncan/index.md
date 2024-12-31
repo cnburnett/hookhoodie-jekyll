@@ -37,5 +37,3 @@ Ron appreciated traveling, exploring new cultures and being in nature. Many year
 Much loved by his life partner, his two children, five grandchildren and wide circle of family and friends. He passed peacefully surrounded by family.
 
 His adventurous spirit lives on in his children, grand-children and friends.
-
-[Home](./) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration of Life](./celebration)  &nbsp;&nbsp;&nbsp;&nbsp;[Obituary](./obituary)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos)  &nbsp;&nbsp;&nbsp;&nbsp;[Tributes](./tributes)
