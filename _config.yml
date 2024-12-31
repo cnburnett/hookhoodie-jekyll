@@ -30,10 +30,14 @@ plugins:
 # Collection (Obits)
 collections_dir: obit_collections
 collections:
-  - ronduncan
-  - maebrowne
-  - sheilascott
-  - beverleyhoskins
+  ronduncan:
+    output: true
+  maebrowne:
+    output: true
+  sheilascott:
+    output: true
+  beverleyhoskins:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
