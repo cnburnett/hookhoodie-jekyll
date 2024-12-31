@@ -12,7 +12,7 @@ exclude: true
            margin-right: auto;
            width: 50%;"
     src="\ronduncan\assets\ronduncan036.png" 
-    alt="Ron drinking wine while camping">
+    alt="Ron drinking Scotch at fishing camp">
 
 <p align="center" width="100%">    
     September 19, 1943 – October 20, 2023
