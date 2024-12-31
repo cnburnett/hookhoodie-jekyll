@@ -15,8 +15,9 @@ A Celebration of Life was held at Spinnakers Brewpub on Thursday October 26th 20
 
 ## <a id="memory-card"></a>Memory card
 
-Big thanks to cousins Myra Scott Legge and Sarah Cook for designing the card:
-<br>
+Big thanks to cousins Myra Scott Legge and Sarah Cook for designing the card.
+<br><br>
+
 <img 
     style="display: block; 
            margin-left: auto;
@@ -25,7 +26,7 @@ Big thanks to cousins Myra Scott Legge and Sarah Cook for designing the card:
     src="./assets/ron_celebration_of_life_card_side1.png" 
     alt="Ron memory card side 1">
 
-    <img 
+<img 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
