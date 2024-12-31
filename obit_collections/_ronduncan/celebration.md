@@ -36,11 +36,11 @@ Big thanks to cousins Myra Scott Legge and Sarah Cook for designing the card.
     src="./assets/ron_celebration_of_life_card_side2.png" 
     alt="Ron memory card side 2">
 
-## <a id="photos"></a>Photos
+## <a id="photos"></a>Photo Gallery
 
 {% include image-gallery.html folder="./assets/ron_celebration" %}
 
-## <a id="photos"></a>Photos 2
+## <a id="photos"></a>Photo Gallery 2
 
 {% include image-gallery.html folder="./ron_celebration" %}
 
