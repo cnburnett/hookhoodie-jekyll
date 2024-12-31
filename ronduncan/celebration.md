@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Celebration of Life
+title: Celebration of Ron
 nav: false
 ---
 
