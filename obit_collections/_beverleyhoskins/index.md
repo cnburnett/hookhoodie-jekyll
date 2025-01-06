@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: Beverley Ann Hoskins
 ---
-
-# Beverley Ann Hoskins
 
 <img 
     style="display: block; 
