@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Chris Hoskins obituary
+title: Chris Francis Hoskins
 exclude: true
 ---
 
 [Home](./index) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration of Life](./celebration)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos)  &nbsp;&nbsp;&nbsp;&nbsp;[Chris](./chris)
 
-Beverley was pre-deceased by her husband Chris. His obituary can be found at
-</a href="https://edmontonjournal.remembering.ca/obituary/christopher-hoskins-1086144188">Edmonton Journal</a> and is replicated below.
+Beverley was pre-deceased by her husband Chris. His obituary can be found on the [Edmonton Journal](https://edmontonjournal.remembering.ca/obituary/christopher-hoskins-1086144188) website and is replicated below.
 
 <img src="./assets/chris_obit.jpeg" alt="Chris hiking"/>
 
@@ -16,7 +15,7 @@ HOSKINS, Christopher Francis
 Born February 2, 1948<br>
 Died September 4, 2022
 
-On September 4 2022, a nearly cloudless day on the last long weekend of summer, Christopher Francis Hoskins set out with some family members to conquer 'Big Sister' mountain in Canmore, Alberta. The iconic peak presides over the Bow Valley; it was his favorite climb.
+On September 4 2022, a nearly cloudless day on the last long weekend of summer, Christopher c Hoskins set out with some family members to conquer 'Big Sister' mountain in Canmore, Alberta. The iconic peak presides over the Bow Valley; it was his favorite climb.
 
 On the descent, while tackling a particularly difficult section, he lost his footing and fell. A spectacular effort was made by rescue services to save his life, but he unfortunately succumbed to his injuries that afternoon.
 
