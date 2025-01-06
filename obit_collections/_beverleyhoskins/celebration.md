@@ -15,21 +15,22 @@ A Celebration of Life was held at the Citadel Theatre, Edmonton on Saturday May 
 
 WELCOME & MEMORIES
 <br>Ryan Hoskins
-
+<br><br>
 MEMORIES
 <br>Zoe (Hoskins) Light
-
+<br><br>
 MUSIC - Pōkarekare Ana
-
+<br><br>
 MEMORIES
 <br>Andrew Hoskins
-
+<br><br>
 MEMORIES & CLOSING
 <br>Verena Hoskins Roberts
-
+<br><br>
 MUSIC - "So Long, Farewell"
 <br>Edward Hoskins, Mackenzie Roberts, Sophie Hoskins, Carson Roberts, Aoife Hoskins, Paxton Roberts, Zara Light, Huxley Skinner, Oskar Hoskins, Lochlan Light
 
+<br><br>
 POEM - Pōkarekare Ana
 
 <table>
