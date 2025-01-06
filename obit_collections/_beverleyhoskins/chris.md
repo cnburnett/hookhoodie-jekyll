@@ -4,7 +4,7 @@ title: Chris Hoskins obituary
 exclude: true
 ---
 
-[Home](./index) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration of Life](./celebration)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos)  &nbsp;&nbsp;&nbsp;&nbsp;[Chris](./tributeschris)
+[Home](./index) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration of Life](./celebration)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos)  &nbsp;&nbsp;&nbsp;&nbsp;[Chris](./chris)
 
 Beverley was pre-deceased by her husband Chris. His obituary can be found at
 </a href="https://edmontonjournal.remembering.ca/obituary/christopher-hoskins-1086144188">Edmonton Journal</a> and is replicated below.

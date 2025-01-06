@@ -4,12 +4,14 @@ title: Celebration of Beverley
 exclude: true
 ---
 
-[Home](./index) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration of Life](./celebration)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos)  &nbsp;&nbsp;&nbsp;&nbsp;[Chris](./tributeschris)
+[Home](./index) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration of Life](./celebration)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos)  &nbsp;&nbsp;&nbsp;&nbsp;[Chris](./chris)
 
-A Celebration of Life was held at the Citadel Theatre, Edmonton on Saturday May 25th 2023. 
+A Celebration of Life was held at the Citadel Theatre, Edmonton on Saturday May 25th 2024. 
 <br>
 
 ## Program
+
+<p align="center" width="100%">
 
 WELCOME & MEMORIES
 <br>Ryan Hoskins
@@ -82,3 +84,4 @@ My love will never <br>be dried by the sun,
 </tr>
 </table>
 
+</p>

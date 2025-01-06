@@ -27,4 +27,4 @@ title: Beverley Ann Hoskins
 <p>A Celebration of Life will was hosted on May 26, 2024 at the Shoctor Theatre Lobby of Edmonton's Citadel Theatre starting at 1300. The address is 9828 101A Ave.</p>
 
 
-[Home](./index) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration of Life](./celebration)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos)  &nbsp;&nbsp;&nbsp;&nbsp;[Chris](./tributeschris)
+[Home](./index) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration of Life](./celebration)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos)  &nbsp;&nbsp;&nbsp;&nbsp;[Chris](./chris)
