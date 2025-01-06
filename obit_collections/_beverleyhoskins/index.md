@@ -12,7 +12,7 @@ layout: page
            margin-left: auto;
            margin-right: auto;
            width: 50%;"
-    src=".\assets\beverley_smiling.jpg" 
+    src="\beverleyhoskins\assets\beverley_smiling.jpg" 
     alt="Beverley smiling">
 
 <p align="center" width="100%">    

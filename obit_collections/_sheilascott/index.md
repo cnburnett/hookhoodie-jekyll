@@ -12,8 +12,8 @@ layout: page
            margin-left: auto;
            margin-right: auto;
            width: 50%;"
-    src=".\assets\sheila.jpg" 
-    alt="Beverley smiling">
+    src="\sheilascott\assets\sheila.jpg" 
+    alt="Sheila smiling">
 
 <p align="center" width="100%">    
     September 6, 1946 – May 23, 2023
