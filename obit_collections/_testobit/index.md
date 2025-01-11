@@ -20,6 +20,13 @@ exclude: false
 
 These pages are a celebration of the life of Test.
 
+# Image Gallery
+
+Added this call: include image-gallery.html folder="/uploads/album"
+See: https://jekyllcodex.org/without-plugin/image-gallery/#
+
+{% include image-gallery.html folder="/testobit/assets" %}
+
 # Resized by weserv
 
 Here is an image resized by weserv.nl:
