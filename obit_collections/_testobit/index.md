@@ -11,7 +11,7 @@ exclude: false
            margin-left: auto;
            margin-right: auto;
            width: 50%;"
-    src="\ronduncan\assets\person.png" 
+    src="\testobit\assets\person.png" 
     alt="Test drinking Scotch at fishing camp">
 
 <p align="center" width="100%">    
@@ -22,4 +22,8 @@ These pages are a celebration of the life of Test.
 
 # About Test
 
-Test passed peacefully surrounded by...
+Here is an image resized by wesern.nl:
+
+<img src="http://images.weserv.nl/?url=www.ourobit.org{{ page.image }}&w=200&h=200&output=jpg&q=65" />
+
+
