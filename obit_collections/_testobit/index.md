@@ -27,6 +27,6 @@ Here is an image resized by weserv.nl:
 <img src="http://images.weserv.nl/?url=www.ourobit.org/testobit/assets/colourful_forest.jpg&w=200&h=200&output=jpg&q=65" />
 
 
-## Oringinal
+# Original
 
 <img src="\testobit\assets\colourful_forest.jpg"/>
