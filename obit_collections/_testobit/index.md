@@ -25,7 +25,7 @@ These pages are a celebration of the life of Test.
 Added this call: include image-gallery.html folder="/uploads/album"
 See: https://jekyllcodex.org/without-plugin/image-gallery/#
 
-{% include image-gallery.html folder="www.ourobit.org/testobit/assets" %}
+{% include image-gallery.html folder="www.ourobit.org/testobit/assets/" %}
 
 # Resized by weserv
 
