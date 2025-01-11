@@ -20,10 +20,13 @@ exclude: false
 
 These pages are a celebration of the life of Test.
 
-# About Test
+# Resized by weserv
 
-Here is an image resized by wesern.nl:
+Here is an image resized by weserv.nl:
 
-<img src="http://images.weserv.nl/?url=www.ourobit.org{{ page.image }}&w=200&h=200&output=jpg&q=65" />
+<img src="http://images.weserv.nl/?url=www.ourobit.org\obit_collections\testobit\assets\colourful_forest.jpg&w=200&h=200&output=jpg&q=65" />
 
 
+## Oringinal
+
+<img src="\testobit\assets\colourful_forest.jpg"/>
