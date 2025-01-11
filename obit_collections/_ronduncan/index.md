@@ -18,8 +18,6 @@ exclude: false
     September 19, 1943 – October 20, 2023
 </p>
 
-TEST <img src="\testobit\assets\colourful_forest.jpg"/>
-
 These pages are a celebration of the life of Ron Duncan; husband, father, grand-father, uncle, friend, bon vivant, fiddler, fisherman, Tai chi instructor, and entrepreneur.
 
 A Celebration of Ron's life was held at Spinnakers Gastro Brewpub on Thursday October 26th at 2 PM. Friends and family raised a glass in his honour, told some stories and played some fiddle tunes in his honour - see [Celebration](./celebration). 
