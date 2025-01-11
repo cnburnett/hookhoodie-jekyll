@@ -18,7 +18,7 @@ exclude: false
     September 19, 1943 – October 20, 2023
 </p>
 
-<img src="\testobit\assets\colourful_forest.jpg"/>
+TEST <img src="\testobit\assets\colourful_forest.jpg"/>
 
 These pages are a celebration of the life of Ron Duncan; husband, father, grand-father, uncle, friend, bon vivant, fiddler, fisherman, Tai chi instructor, and entrepreneur.
 
