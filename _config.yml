@@ -16,7 +16,7 @@
 title: HookHoodie
 email: info@hookhoodie.website
 description: >- # this means to ignore newlines until "baseurl:"
-  Our Obit is a private community-run Obit site.
+  HookHoodie - the best lure protectors on the planet!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hookhoodie.website" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:year/:month/:day/:title
