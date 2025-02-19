@@ -11,7 +11,13 @@ Welcome to HookHoodie.
 
 
 
-IMAGE GOES HERE
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 50%;"
+    src="\assets\HookHoodie-schematic.jpg" 
+    alt="Lure protector schematic">
 
 
-Lauching summer 2025!
+Launching summer 2025!
