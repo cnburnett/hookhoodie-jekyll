@@ -1,5 +1,5 @@
 # Hello
 
-OurObit.org is a privately run obituaries site.
+Hookhoodie.website is a demo site.
 
-The site is deployed on [Render](https://ourobit.org).
+The site is deployed on [Render](https://hookhoodie.website).

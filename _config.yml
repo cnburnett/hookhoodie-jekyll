@@ -1,4 +1,4 @@
-# Welcome to OurObit.org!
+# Welcome to HookHoodie!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Our Obit
-email: info@ourobit.org
+title: HookHoodie
+email: info@hookhoodie.website
 description: >- # this means to ignore newlines until "baseurl:"
   Our Obit is a private community-run Obit site.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ourobit.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hookhoodie.website" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:year/:month/:day/:title
 
 # Build settings
@@ -27,19 +27,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# Collection (Obits)
-collections_dir: obit_collections
-collections:
-  ronduncan:
-    output: true
-  maebrowne:
-    output: true
-  sheilascott:
-    output: true
-  beverleyhoskins:
-    output: true
-  testobit:
-    output: true
+# Collection (Hoodies)
+# None yet
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

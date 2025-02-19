@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-OurObit.org is a private obituaries website.
+# Why Hook Hoodie?.
+
+De-clutter your lures and leaders.

@@ -7,8 +7,11 @@ layout: home
 
 # Welcome
 
-OurObit.org is a private obituaries website.
+Welcome to HookHoodie.
 
-# Gallery
 
-{% include image-gallery.html folder="/assets" %}
+
+IMAGE GOES HERE
+
+
+Lauching summer 2025!
