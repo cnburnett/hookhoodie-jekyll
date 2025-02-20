@@ -13,7 +13,7 @@ layout: home
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 50%;"
+           width: 100%;"
     src="\assets\HookHoodie-schematic.jpg" 
     alt="Lure protector schematic">
 
