@@ -7,7 +7,7 @@ layout: home
 
 # Welcome to HookHoodie
 
-
+<br/><br/><br/>
 
 <img 
     style="display: block; 
@@ -17,6 +17,6 @@ layout: home
     src="\assets\HookHoodie-schematic.jpg" 
     alt="Lure protector schematic">
 
-<br/><br/>
+<br/><br/><br/>
 
 <p style="text-align:center">Launching summer 2025!</p>
