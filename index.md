@@ -5,9 +5,7 @@
 layout: home
 ---
 
-# Welcome
-
-Welcome to HookHoodie.
+# Welcome to HookHoodie.
 
 
 
@@ -20,4 +18,9 @@ Welcome to HookHoodie.
     alt="Lure protector schematic">
 
 
-Launching summer 2025!
+<p
+    style="display: block; 
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;"
+>Launching summer 2025!</p>
