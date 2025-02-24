@@ -14,7 +14,7 @@ layout: home
            margin-left: auto;
            margin-right: auto;
            width: 100%;"
-    src="\assets\HookHoodie-white.png" 
+    src="\assets\HookHoodie-white-transparent.png" 
     alt="Lure protector - white">
 
 <img 
@@ -22,7 +22,7 @@ layout: home
            margin-left: auto;
            margin-right: auto;
            width: 100%;"
-    src="\assets\HookHoodie-red.png" 
+    src="\assets\HookHoodie-red-transparent.png" 
     alt="Lure protector - red">
 
 <br/><br/><br/>
