@@ -1,10 +1,10 @@
 ---
 title: Contact
-subtitle: Board comes with a built-in contact form, that's free and easy to set up.
-description: Board is a stylish full-width masonry grid theme.
+subtitle: This is our contact form.
+description: Hook Hoodie contact form.
 featured_image: /images/demo/about.jpg
 ---
 
 {% include contact-form.html %}
 
-We've made a contact form that you can use with [Formspree](https://formspree.io/create/jekyllthemes) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.
+This contact form uses [Formspree](https://formspree.io/create/jekyllthemes) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.
