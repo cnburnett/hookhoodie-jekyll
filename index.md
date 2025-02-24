@@ -14,8 +14,16 @@ layout: home
            margin-left: auto;
            margin-right: auto;
            width: 100%;"
-    src="\assets\HookHoodie-schematic.jpg" 
-    alt="Lure protector schematic">
+    src="\assets\HookHoodie-white.jpg" 
+    alt="Lure protector - white">
+
+    <img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 100%;"
+    src="\assets\HookHoodie-red.jpg" 
+    alt="Lure protector - red">
 
 <br/><br/><br/>
 
