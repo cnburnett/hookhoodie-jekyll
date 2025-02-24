@@ -5,10 +5,6 @@
 layout: home
 ---
 
-# Welcome to HookHoodie
-
-<br/><br/><br/>
-
 <img 
     style="display: block; 
            margin-left: auto;
@@ -16,7 +12,9 @@ layout: home
            width: 100%;"
     src="\assets\HookHoodie-white-transparent.png" 
     alt="Lure protector - white">
-
+<br/>
+<p style="text-align:center; font-size:24px">Hook Hoodie is launching summer 2025!</p>
+<br/>
 <img 
     style="display: block; 
            margin-left: auto;
@@ -25,6 +23,4 @@ layout: home
     src="\assets\HookHoodie-red-transparent.png" 
     alt="Lure protector - red">
 
-<br/><br/><br/>
 
-<p style="text-align:center">Launching summer 2025!</p>
