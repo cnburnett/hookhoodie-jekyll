@@ -14,15 +14,15 @@ layout: home
            margin-left: auto;
            margin-right: auto;
            width: 100%;"
-    src="\assets\HookHoodie-white.jpg" 
+    src="\assets\HookHoodie-white.png" 
     alt="Lure protector - white">
 
-    <img 
+<img 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
            width: 100%;"
-    src="\assets\HookHoodie-red.jpg" 
+    src="\assets\HookHoodie-red.png" 
     alt="Lure protector - red">
 
 <br/><br/><br/>
